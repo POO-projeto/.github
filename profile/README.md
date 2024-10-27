@@ -1,18 +1,14 @@
 
-<div style="text-align: center;">
+<h1 align="center"> 👩🏻‍💻 DEVSQUAD 👩🏻‍💻 </h1>
 
-# 👩🏻‍💻 DEVSQUAD 👩🏻‍💻
 <img title=" DevSquad" src="banner.png">
 
-</div>
-
 ## 📝 ÍNDICE
-- [👩🏻‍💻 DEVSQUAD 👩🏻‍💻](#-devsquad-)
-  - [📝 ÍNDICE](#-índice)
-  - [📜 APRESENTAÇÃO](#-apresentação)
-  - [👥 EQUIPE](#-equipe)
-  - [📘 DESCRIÇÃO DO PROJETO](#-descrição-do-projeto)
-  - [🌟 FUNCIONALIDADES PRINCIPAIS](#-funcionalidades-principais)
+- [📝 ÍNDICE](#-índice)
+- [📜 APRESENTAÇÃO](#-apresentação)
+- [👥 EQUIPE](#-equipe)
+- [📘 DESCRIÇÃO DO PROJETO](#-descrição-do-projeto)
+- [🌟 FUNCIONALIDADES PRINCIPAIS](#-funcionalidades-principais)
 
 ## 📜 APRESENTAÇÃO
 Este trabalho foi desenvolvido para a disciplina de Programação Orientada a Objetos (POO), sob a orientação do professor Igor Rafael Silva Valente. Atualmente somos alunos do terceiro semestre do curso de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), campus Maracanaú.
