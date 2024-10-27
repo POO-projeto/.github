@@ -1,23 +1,24 @@
 
 <div style="text-align: center;">
 
-# 💻 DEVSQUAD 
+# 👩🏻‍💻 DEVSQUAD 👩🏻‍💻
 <img title=" DevSquad" src="banner.png">
 
 </div>
 
-## ÍNDICE
-1. [📜 Apresentação](#apresentação)
-2. [👥 Equipe](#equipe)
-3. [📘 Descrição do Projeto](#descrição-do-projeto)
-4. [🌟 Funcionalidades Principais](#funcionalidades-principais)
-5. [💻 Tecnologias Usadas](#tecnologias-usadas)
+## 📝 ÍNDICE
+- [👩🏻‍💻 DEVSQUAD 👩🏻‍💻](#-devsquad-)
+  - [📝 ÍNDICE](#-índice)
+  - [📜 APRESENTAÇÃO](#-apresentação)
+  - [👥 EQUIPE](#-equipe)
+  - [📘 DESCRIÇÃO DO PROJETO](#-descrição-do-projeto)
+  - [🌟 FUNCIONALIDADES PRINCIPAIS](#-funcionalidades-principais)
 
 ## 📜 APRESENTAÇÃO
 Este trabalho foi desenvolvido para a disciplina de Programação Orientada a Objetos (POO), sob a orientação do professor Igor Rafael Silva Valente. Atualmente somos alunos do terceiro semestre do curso de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Ceará (IFCE), campus Maracanaú.
 
 ## 👥 EQUIPE
-| [<img src="prof. Igor.png" width=110> <br><sub> Igor Valente </sub>](https://github.com/igorvalente1004) <br> <i>Orientador</i> | [<img src="https://avatars.githubusercontent.com/u/120287932?s=400&u=8aecd1353167baa60b5b7ad71501a738977bf2f9&v=4" width=115> <br><sub> Débora Lima </sub>](https://github.com/deboradls) <br> <i>Coordenadora e QA</i> | [<img src="https://avatars.githubusercontent.com/u/147006376?v=4" width=115> <br><sub> Nykollas Souza </sub>](https://github.com/eholuizao) <br> <i>Desenvolvedor e Designer</i> | [<img src="https://avatars.githubusercontent.com/u/87949563?v=4" width=115> <br> <sub> Jhonny Cunha </sub>](https://github.com/jhonnycs) <br> <i>Desenvolvedor</i> | 
+| [<img src="prof. Igor.png" width=115> <br><sub> Igor Valente </sub>](https://github.com/igorvalente1004) <br> <i>Orientador</i> | [<img src="https://avatars.githubusercontent.com/u/120287932?s=400&u=8aecd1353167baa60b5b7ad71501a738977bf2f9&v=4" width=115> <br><sub> Débora Lima </sub>](https://github.com/deboradls) <br> <i>Coordenadora e QA</i> | [<img src="https://avatars.githubusercontent.com/u/147006376?v=4" width=115> <br><sub> Nykollas Souza </sub>](https://github.com/eholuizao) <br> <i>Desenvolvedor e Designer</i> | [<img src="https://avatars.githubusercontent.com/u/87949563?v=4" width=115> <br> <sub> Jhonny Cunha </sub>](https://github.com/jhonnycs) <br> <i>Desenvolvedor</i> | 
 | :---: | :---: | :---: | :---: |
 
 ## 📘 DESCRIÇÃO DO PROJETO
