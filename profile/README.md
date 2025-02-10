@@ -58,7 +58,6 @@ Inspirado no framework SCRUM, o SIGAD substitui as dailies presenciais por um fo
   <img src="./Protótipos/prototipo-usuarios.jpg" alt="Tela de Usuários" width="400"/>
 </p>
 
-
 <!-- ## 📊 **Diagramas e Arquitetura do Sistema**   -->
 <!-- - **Diagrama de Casos de Uso:**   -->
 <!-- - **Diagrama de Classes:**   -->
