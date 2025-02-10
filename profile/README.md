@@ -31,28 +31,33 @@ Inspirado no framework SCRUM, o SIGAD substitui as dailies presenciais por um fo
 
 ## 🖼️ **Protótipo de Baixa Fidelidade**
 ### Tela de Login
-<img src="./Protótipos/prototipo-login.jpg" alt="Tela de Login" width="400"/>
+<p>
+  <img src="./Protótipos/prototipo-login.jpg" alt="Tela de Login" width="300"/>
+</p>
 
 ### Tela NavBar
-<img src="./Protótipos/prototipo-navbar-expandido.jpg" alt="Tela de Registro de Dailies" width="213"/>
-<img src="./Protótipos/prototipo-colap.jpg" alt="Tela de Registro de Dailies" width="100"/>
+<p>
+  <img src="./Protótipos/prototipo-navbar-expandido.jpg" alt="Tela de Registro de Dailies" width="213" style="margin-right: 10px;"/>
+  <img src="./Protótipos/prototipo-colap.jpg" alt="Tela de Registro de Dailies" width="100"/>
+</p>
 
 ### Tela de Perfil do Usuário
-<img src="./Protótipos/prototipo-perfil-usuario.jpg" alt="Tela de Perfil do Usuário" width="400"/>
-<img src="./Protótipos/prototipo-atualizacao-perfil.jpg" alt="Tela de Registro de Dailies" width="400"/>
+<p>
+  <img src="./Protótipos/prototipo-perfil-usuario.jpg" alt="Tela de Perfil do Usuário" width="400" style="margin-right: 10px;"/>
+  <img src="./Protótipos/prototipo-atualizacao-perfil.jpg" alt="Tela de Atualização de Perfil" width="400"/>
+</p>
 
 ### Tela de Gestão de Projetos
-<img src="./Protótipos/prototipo-projetos.jpg" alt="Tela de Gestão de Projetos" width="400"/>
-<img src="./Protótipos/prototipo-adicaoedicao-projetos.jpg" alt ="" width="400"/>
-
-<!-- ### Tela de Registro de Dailies
-<img src="g" alt="Tela de Registro de Dailies" width="400"/> -->
-
-<!-- ### Tela de Histórico de Dailies
-<img src="g" alt="Tela de Registro de Dailies" width="400"/> -->
+<p>
+  <img src="./Protótipos/prototipo-projetos.jpg" alt="Tela de Gestão de Projetos" width="400" style="margin-right: 10px;"/>
+  <img src="./Protótipos/prototipo-adicaoedicao-projetos.jpg" alt="Tela de Adição/Edição de Projetos" width="400"/>
+</p>
 
 ### Tela de Usuários
-<img src="./Protótipos/prototipo-usuarios.jpg" alt="Tela de Registro de Dailies" width="400"/>
+<p>
+  <img src="./Protótipos/prototipo-usuarios.jpg" alt="Tela de Usuários" width="400"/>
+</p>
+
 
 <!-- ## 📊 **Diagramas e Arquitetura do Sistema**   -->
 <!-- - **Diagrama de Casos de Uso:**   -->
